@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "さすらいの迷える仔猫",
+  "base_artist": "Aki Toyosaki",
+  "createdAt": "2025-12-03T10:54:08.872479Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さすらいの迷える仔猫",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_さすらいの迷える仔猫_豊崎_愛生.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "さすらいの迷える仔猫",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_02_さすらいの迷える仔猫_豊崎_愛生.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "さすらいの迷える仔猫",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_03_さすらいの迷える仔猫_豊崎_愛生.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "さすらいの迷える仔猫",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_04_さすらいの迷える仔猫_豊崎_愛生.txt"
+    }
+  ]
+}
